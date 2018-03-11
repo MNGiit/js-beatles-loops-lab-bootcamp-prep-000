@@ -40,7 +40,7 @@ function iLoveTheBeatles (){
   var loveArray = [];
   var eye2 = 0;
   do {
-    loveArray.push("I love the Beatles!");
+    loveArray.push('I love the Beatles!');
     eye2++;
   } while ( eye2 < 8)
   
