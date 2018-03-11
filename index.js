@@ -39,7 +39,7 @@ function iLoveTheBeatles (number){
   
   var loveArray = [];
   do {
-    loveArray.push(+"I love the Beatles!");
+    loveArray.push(loveArray[number]+"I love the Beatles!");
     number++;
   } while ( number < 8)
   
