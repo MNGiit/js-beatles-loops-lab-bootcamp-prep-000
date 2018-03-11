@@ -42,7 +42,7 @@ function iLoveTheBeatles (){
   do {
     loveArray.push("I love the Beatles!");
     i++;
-  } while ( i < 8)
+  } while ( i < 9)
   
   return loveArray;
   
