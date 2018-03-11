@@ -35,14 +35,13 @@ function johnLennonFacts (facts){
   return strings;
 }
 
-function iLoveTheBeatles (){
+function iLoveTheBeatles (number){
   
   var loveArray = [];
-  var eye2 = 0;
   do {
     loveArray.push('I love the Beatles!');
-    eye2++;
-  } while ( eye2 < 8)
+    number++;
+  } while ( number < 8)
   
   return loveArray;
   
