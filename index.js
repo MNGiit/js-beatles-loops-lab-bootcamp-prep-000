@@ -40,7 +40,7 @@ function iLoveTheBeatles (){
   var loveArray = [];
   
   for (var i = 0; i < 8; ++i){
-    loveArray[i] = "I love the Beatles!";
+    loveArray[i] = 'I love the Beatles!';
   }
   return loveArray;
 }
