@@ -27,8 +27,9 @@ var strings = [];
 
 function johnLennonFacts (facts){
   
-  for (var i = 0; i < 4; i++){
-    array.push(facts[i] +"!!!");
+  while (i < facts.length) {
+    strings.push(facts[i] +"!!!");
+    i++;
   }
   
   return strings;
