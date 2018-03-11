@@ -41,7 +41,7 @@ function iLoveTheBeatles (){
   var eye2 = 0;
   do {
     loveArray.push("I love the Beatles!");
-    eye2++;
+    ++eye2;
   } while ( eye2 < 8)
   
   return loveArray;
