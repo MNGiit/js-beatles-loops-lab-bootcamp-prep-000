@@ -23,13 +23,12 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-var strings = [];
-
 function johnLennonFacts (facts){
   var i = 0;
-
+  var strings[];
+  
   while (i < facts.length) {
-    facts[i] + "!!!";
+    strings.push(facts[i] + "!!!");
     i++;
   }
   
