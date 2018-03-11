@@ -38,11 +38,11 @@ function johnLennonFacts (facts){
 function iLoveTheBeatles (){
   
   var loveArray = [];
-  var i = 0;
+  var eye2 = 0;
   do {
     loveArray.push("I love the Beatles!");
-    i++;
-  } while ( i < 9)
+    eye2++;
+  } while ( eye2 < 9)
   
   return loveArray;
   
