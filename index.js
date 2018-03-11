@@ -41,7 +41,7 @@ function iLoveTheBeatles (number){
   do {
     loveArray.push("I love the Beatles!");
     number++;
-  } while ( number < 17)
+  } while ( number < 15)
   
   return loveArray;
   
